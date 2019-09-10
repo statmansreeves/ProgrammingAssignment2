@@ -1,5 +1,7 @@
 #  Code for matrix assignment - quite strange syntax to me just the code
 #
+#   Now edited in GitHub  
+#
 makeCacheMatrix <- function(x = matrix()) {
   invMatrix <- NULL
   setMatrix <- function(y) {
